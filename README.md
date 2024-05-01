@@ -12,7 +12,7 @@
   - 데이터 전처리 및 적절한 이미지 특징 추출
   - CNN 모델 훈련 및 성능 최적화 담당(모델 학습 과정에서 하이퍼파라미터 조정 및 최적화)
     
-- [발표자료](https://github.com/XHIN98/Portfolio_XHIN98/blob/main/personalized%20food%20warning%20system.pdf)
+- [프로젝트GitHub](https://github.com/XHIN98/DL-ML-Project-image-classification-/blob/main/image_classification_project.ipynb)[발표자료](https://github.com/XHIN98/Portfolio_XHIN98/blob/main/personalized%20food%20warning%20system.pdf)
 
 #   
 
@@ -26,7 +26,7 @@
   - 치과 데이터의 전처리 수행하여 이미지 품질 개선
   - 의료 분야 시장분석을 통한 문제 도출 및 해결책 마련
     
-- [발표자료](https://github.com/XHIN98/Portfolio_XHIN98/blob/main/%E1%84%90%E1%85%B3%E1%86%AB%E1%84%90%E1%85%B3%E1%86%AB%E1%84%92%E1%85%A1%E1%84%82%E1%85%B5%2C%20%E1%84%90%E1%85%B3%E1%86%AB%E1%84%90%E1%85%B3%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%B5.pdf)
+- [프로젝트GitHub](https://github.com/XHIN98/toothnumber_project/blob/main/project_code.ipynb) / [발표자료](https://github.com/XHIN98/Portfolio_XHIN98/blob/main/%E1%84%90%E1%85%B3%E1%86%AB%E1%84%90%E1%85%B3%E1%86%AB%E1%84%92%E1%85%A1%E1%84%82%E1%85%B5%2C%20%E1%84%90%E1%85%B3%E1%86%AB%E1%84%90%E1%85%B3%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%B5.pdf)
 
 #   
 
