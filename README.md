@@ -12,7 +12,7 @@
   - 데이터 전처리 및 적절한 이미지 특징 추출
   - CNN 모델 훈련 및 성능 최적화 담당(모델 학습 과정에서 하이퍼파라미터 조정 및 최적화)
     
-- [프로젝트GitHub](https://github.com/XHIN98/DL-ML-Project-image-classification-/blob/main/image_classification_project.ipynb)[발표자료](https://github.com/XHIN98/Portfolio_XHIN98/blob/main/personalized%20food%20warning%20system.pdf)
+- [프로젝트GitHub](https://github.com/XHIN98/DL-ML-Project-image-classification-/blob/main/image_classification_project.ipynb) / [발표자료](https://github.com/XHIN98/Portfolio_XHIN98/blob/main/personalized%20food%20warning%20system.pdf)
 
 #   
 
