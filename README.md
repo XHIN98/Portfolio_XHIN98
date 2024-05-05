@@ -9,14 +9,20 @@
    - 한국의 다양한 음식 이미지 선정, 음식 이미질를 크롤링해 음식이미지를 바탕으로 해당 음식이 무엇인지 예측하는 모델링
    - 개인이 가지고 있는 질병에 영향을 주는 음식이 무엇인지 알아볼 수 있었으며, 음식 이미지 분류를 정확히 할 수 있었음
 - 프로젝트 역할
+  - 데이터 수집 및 분석
   - 각 픽셀 값의 범위를 일정하게 맞추어 모델의 학습을 안정화
-  - 모델 검증과정에서 cache()와 prefetch() 메서드를 사용하여 데이터를 캐시하고, 학습속도를 향상
+  - 모델 검증과정
+     - cache()와 prefetch() 메서드를 사용하여 데이터를 캐시
+     - 학습속도를 향상
   - 데이터 증강 기법을 적용하여 데이터 다양성 향상
-  - drop-out 기법을 적용하여 일반화 성능 향상 및 과적합 문제 완화
-    - 모델 학습 데이터에 너무 맞추어지는 것 방지, 새로운 데이터에 대한 일반화 능력 향상
+  - 모델 아키텍처 정의
+    - padding 옵션을 'same'으로 설정하여 입력과 출력의 크기를 동일하게 유지
+      - 입력 이미지 연산 시 정보 손실 방지
+    - 모델 아키텍처 정의 시 Overfitting을 방지 하기 위해 drop-out 기법 적용
+      - 학습 데이터에 너무 맞춰지는 현상 방지, 새로운 데이터에 대한 일반화 능력 향상
     
 - [프로젝트GitHub](https://github.com/XHIN98/DL-ML-Project-image-classification-/blob/main/image_classification_project.ipynb) / [발표자료](https://github.com/XHIN98/Portfolio_XHIN98/blob/main/personalized%20food%20warning%20system.pdf)
-
+  
 #   
 
 ### 02. 튼튼하니, 튼튼한 이 - image Detection model (2022) - 대상 수상
